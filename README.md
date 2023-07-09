@@ -30,6 +30,10 @@ In the third terminal, type: npx hardhat run --network localhost scripts/deploy.
 Back in the first terminal, type npm run dev to launch the front-end.
 After this, the project will be running on your localhost. Typically at http://localhost:3000/
 
+# Video walkthrough
+
+https://www.loom.com/share/168db9551511417184396ff3938633bd?sid=fe31664a-b0b0-49e4-8328-24ed436d62bf
+
 # Authors
 BYLAPUDI DEEPAK VENKATA SWAMY NAIDU @bdvsnaidu(https://github.com/bdvsnaidu)
 
