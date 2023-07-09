@@ -1,8 +1,8 @@
 # ASSESSMENT-4
-Creating a smart contract with 2 or 3 functions and integrating it with the frontend.
+Creating a smart contract with 2 or 3 functions and integrating it with the front end.
 
 # Description
-We will be building a smart contract with some functions and will be integrating with the frontend part. So we can make the changes required with the help of the icons present in the frontend application so that it will be connected with the backend(meta mask wallet). The basic idea is that in the frontend we will be importing the Web3 and establish a connection with the Etherium network. For this project we will install some extra softwares like Node js and Metamask. Node js is a javascript runtime environment and library for running the web applications. Metamask is a cryptocurrency wallet used to interact with the etherium blockchain. The main thing to etablish a connection with the frontend is that Contract address and the ABI (application binary interface). We added some extra function that is calculator, it performs operations like addition, subtraction and multiplication.
+We will be building a smart contract with some functions and integrating it with the front-end part. So we can make the changes required with the help of the icons present in the frontend application so that it will be connected with the backend (meta mask wallet). The basic idea is that in the frontend we will be importing Web3 and establishing a connection with the Ethereum network. For this project, we will install some different software like Node js and Metamask. Node js is a javascript runtime environment and library for running web applications. Metamask is a cryptocurrency wallet used to interact with the Ethereum blockchain. The main thing to establish a connection with the front end is the Contract address and the ABI (application binary interface). We added an extra function which is the calculator, which performs operations like addition, subtraction, and multiplication.
 
 
 # Getting started
@@ -21,14 +21,14 @@ You can customize the UI elements, styles, and behavior of the Crypto ATM compon
 
 
 # Setup
-After cloning the github, you will want to do the following to get the code running on your computer.
+After cloning GitHub, you will want to do the following to get the code running on your computer.
 
 Inside the project directory, in the terminal type: npm i
 Open two additional terminals in your VS code
 In the second terminal type: npx hardhat node
 In the third terminal, type: npx hardhat run --network localhost scripts/deploy.js
-Back in the first terminal, type npm run dev to launch the front-end.
-After this, the project will be running on your localhost. Typically at http://localhost:3000/
+Back in the first terminal, type npm run dev to launch the front end.
+After this, the project will be running on your local host. Typically at http://localhost:3000/
 
 # Video walkthrough
 
